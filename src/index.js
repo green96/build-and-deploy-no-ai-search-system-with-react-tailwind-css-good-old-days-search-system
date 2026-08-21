@@ -31,6 +31,6 @@ Các component khác
 //Ngoài ra chúng ta cũng có thể Sử dụng thư viện CDN Cho React ở đây:https://legacy.reactjs.org/docs/cdn-links.html
 // Và CDN cho tailwind ở đây: https://tailwindcss.com/docs/installation/play-cdn
 // chạy project bằng lệnh: npm start
-//Học tới khúc 11:24 link: https://www.youtube.com/watch?v=NDbruK1fzG8&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=37
+//Học tới khúc 18:39 link: https://www.youtube.com/watch?v=NDbruK1fzG8&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=37
 
 //Ctrl + C ==> stop sever
